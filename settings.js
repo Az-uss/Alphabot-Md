@@ -18,7 +18,7 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Alphabot-Mdོ"
+global.botname = "Alphabot-Md"
 global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
 global.myweb ="https://api-alphabot.herokuapp.com/"
 global.youtube = "https://youtube.com/c/ZeeoneOfc"
